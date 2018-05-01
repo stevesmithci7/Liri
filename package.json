@@ -1,0 +1,19 @@
+{
+  "name": "inquirerintro",
+  "version": "1.0.0",
+  "description": "Basic example of using inquirer",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "inquirer": "^1.2.3",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
